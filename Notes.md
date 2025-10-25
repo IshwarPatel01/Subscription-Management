@@ -7,3 +7,5 @@
 # first foundation then structure
 
 # so go to google and find info
+
+# 
